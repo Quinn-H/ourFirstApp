@@ -4,6 +4,6 @@ var app = express()
 
 var routes = require('./routes')
 
-module.export = app
+module.exports = app
 
 app.get('/', routes.getName)
