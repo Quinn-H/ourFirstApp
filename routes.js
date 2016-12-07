@@ -3,5 +3,5 @@ module.exports = {
 }
 
 function getName (req, res) {
-  res.send('<h1>we are live</h1>')
+  res.send('<h1>we are live in Giithub</h1>')
 }
