@@ -3,5 +3,5 @@ module.exports = {
 }
 
 function getName (req, res) {
-  res.render('we are live')
+  res.render('<h1>we are live</h1>')
 }
